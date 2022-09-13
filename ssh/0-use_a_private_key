@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # script to connect to a server
-ssh-keygen
+ssh-keygen ubuntu@~/.ssh/schooln
