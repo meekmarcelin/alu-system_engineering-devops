@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Create RSA
+ssh school@4096
