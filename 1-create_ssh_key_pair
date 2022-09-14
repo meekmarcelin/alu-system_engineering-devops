@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-#Create a RSA key pair
+#create RSA
 ssh school@4096 betty
+
