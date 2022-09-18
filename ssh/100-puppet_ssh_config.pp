@@ -1,5 +1,2 @@
 #!/usr/bin/env bash
-configaration file ~/.ssh/school
-configaration IP 23.23.62.187
-password None
-user ubuntue
+exec {'echo "passwordAuthentication no\Identityfile ~/.ssh/school" >> /etc/ssh/ssh_config':path => '/bin/}
